@@ -27,7 +27,8 @@
 ## Ссылки
 Чтобы выделить ненумированный список используйте например (*)
 ## Работа с таблицами
-![teftelka](https://disk.yandex.ru/d/_iPukWH-m6kzbg)
+![cat](https://mobimg.b-cdn.net/v3/fetch/fc/fc97db329bd4482025eaa1e3961dc80e.jpeg?w=1470&r=0.5625)
+
 ## Цитаты
 
 ## Заключение
