@@ -35,7 +35,6 @@
 Отдых   | Git 20:00   | Гибкие методологии | Отдых  | Git 20:00
 
 ![cat](https://mobimg.b-cdn.net/v3/fetch/fc/fc97db329bd4482025eaa1e3961dc80e.jpeg?w=1470&r=0.5625)
->>>>>>> ai
 
 ## Цитаты
 
